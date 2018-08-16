@@ -1,2 +1,6 @@
-# react-cosmos-webpack1-example
-Example of using React Cosmos with webpack v1.x
+# React Cosmos with webpack v1
+
+Other requirements:
+
+- `babel-loader` v6
+- `html-webpack-plugin` v2
